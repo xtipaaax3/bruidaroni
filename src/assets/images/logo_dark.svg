@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 40" width="200" height="40" class="navbar__logo">
+  <text x="15" y="30" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="white">T-</text>
+  <text x="45" y="30" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#FE2C55">TOK</text>
+  <text x="55" y="30" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="black"></text>
+</svg>
